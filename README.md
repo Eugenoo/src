@@ -1,1 +1,2 @@
 # src
+# jestem swietnym informatykiem
